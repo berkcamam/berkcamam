@@ -7,7 +7,9 @@ A little bit about me:
 I have always been a fan of statistics so being able to tell stories and make discoveries with data
 has made it all the better. Although my interests are heavily invested in data and its related fields, I enjoy working on my programming skills as well. 
 
-Currently working on a IT Help Analytics project and exploring the making of a mobile game. 
+Currently working on a IT Help Analytics project and exploring the makings of a mobile game. 
+
+My favorite languages to work with are Python and SQL, but I am also proficient in JavaScript, R, and Excel.
 
 <!--
 **berkcamam/berkcamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
