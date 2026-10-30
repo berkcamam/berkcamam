@@ -1,4 +1,6 @@
 ## Hello, I’m Amelia!
+Thank you for visiting my page.
+If you have any questions feel free to contact me on [LinkedIn](www.linkedin.com/in/amelia-c-7a3a83390).
 
 <!--
 **berkcamam/berkcamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
